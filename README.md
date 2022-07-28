@@ -10,7 +10,7 @@ The project has been developed in the following main phases: \
 • Feature extraction \
 • Exploratory data analysis \
 • Models definition, implementation and evaluation \
-• Performance comparison \
+• Performance comparison 
 
 
 Attached you can find:
