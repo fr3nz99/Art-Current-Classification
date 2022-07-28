@@ -1,6 +1,8 @@
 # Art Current Classification
-## From Machine Learning to Deep Learning to identify the artworks
+### From Machine Learning to Deep Learning to identify the artworks
 ### Francesco Pinto, Eugenio Baldo, Simone Chieppa, Alessio Galimi
+
+#### Project for Statistical Learning course - AY 2021/2022
 
 The aim of this project is to classify correctly artworks belonging to different art movements by using Machine Learning and Deep Learning techniques.
 
