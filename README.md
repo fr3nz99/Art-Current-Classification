@@ -5,12 +5,12 @@
 The aim of this project is to classify correctly artworks belonging to different art movements by using Machine Learning and Deep Learning techniques.
 
 
-The project has been developed in the following main phases:
-• Data collection
-• Feature extraction
-• Exploratory data analysis
-• Models definition, implementation and evaluation
-• Performance comparison
+The project has been developed in the following main phases: \
+• Data collection \
+• Feature extraction \
+• Exploratory data analysis \
+• Models definition, implementation and evaluation \
+• Performance comparison \
 
 
 Attached you can find:
