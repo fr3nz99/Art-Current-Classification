@@ -1,6 +1,6 @@
 # Art Current Classification
 ### From Machine Learning to Deep Learning to identify the artworks
-### Francesco Pinto, Eugenio Baldo, Simone Chieppa, Alessio Galimi
+### Collaborators: Francesco Pinto, Eugenio Baldo, Simone Chieppa, Alessio Galimi
 
 #### Project for Statistical Learning course - AY 2021/2022
 
